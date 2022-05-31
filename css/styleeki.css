@@ -1,0 +1,44 @@
+
+nav{
+    padding: 10px;
+    border-bottom: 3px solid black;
+}
+header {
+    color: white;
+    background: url(sdrvmram.jpg);
+    height:470px;
+}
+header h1{
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+header .title{
+    margin: auto;
+    width: 450px;
+    padding: 30px;
+    border: 3px solid white;
+    
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+img{
+    height: 150px;
+ }
+.col{
+    padding:  20px;
+    height: 300x;
+    width:  200px;
+
+}
+.details button{
+    margin-left: 25%;
+}
+.details p{
+    font-size: 12px;
+}

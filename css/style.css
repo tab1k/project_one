@@ -1,0 +1,43 @@
+
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+img{
+    width: 100%;
+    float: left; 
+    margin: 4% 4% 0 4%; 
+    
+
+   }
+   
+.col{
+    padding:  20px;
+    height: 300x;
+    width:  200px;
+
+}
+.details button{
+    margin-left: 30%;
+}
+.details p{
+    font-size: 15px;
+    font-family: 'Tenor Sans';
+    
+}
+#map {
+    height: 400px;
+  }
+  
+  /* Optional: Makes the sample page fill the window. */
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    height: 400px;
+  }
