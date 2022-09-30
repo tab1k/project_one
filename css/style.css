@@ -1,5 +1,7 @@
 
-
+body {
+  background-color: #808080;
+}
 .center {
     margin: 0;
     position: absolute;
@@ -9,12 +11,12 @@
 }
 img{
     width: 100%;
-    float: left; 
-    margin: 4% 4% 0 4%; 
-    
+    float: left;
+    margin: 4% 4% 0 4%;
+
 
    }
-   
+
 .col{
     padding:  20px;
     height: 300x;
@@ -27,12 +29,12 @@ img{
 .details p{
     font-size: 15px;
     font-family: 'Tenor Sans';
-    
+
 }
 #map {
     height: 400px;
   }
-  
+
   /* Optional: Makes the sample page fill the window. */
   html,
   body {
